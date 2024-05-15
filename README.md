@@ -1,6 +1,10 @@
 # Tableau-Dashboards
 Our case study is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights.
 
-Revenue Analysis- Dashboard
+**Revenue Analysis- Dashboard**
+
 ![Screenshot (10)](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/5360829c-0182-4a62-bbc5-4e8f05d50c00)
 
+**Profit Analysis- Dashboard**
+
+![Screenshot (11)](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/e65910af-dfe0-4af0-972f-e1582e7d95d0)
