@@ -1,3 +1,5 @@
+**#Project 1:-**
+
 # Tableau-Dashboards
 Our case study is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights.
 
@@ -8,3 +10,8 @@ Our case study is based on a computer hardware business which is facing challeng
 **Profit Analysis- Dashboard**
 
 ![Screenshot (11)](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/e65910af-dfe0-4af0-972f-e1582e7d95d0)
+
+
+**#Project 2: 
+Netflix Dashboard**
+
