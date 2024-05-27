@@ -15,3 +15,7 @@ Our case study is based on a computer hardware business which is facing challeng
 **#Project 2: 
 Netflix Dashboard**
 
+
+![Screenshot (18)](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/86eb8b84-2a49-4e3b-ae4b-323724ba3a3f)
+
+
