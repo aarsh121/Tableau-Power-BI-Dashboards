@@ -19,3 +19,6 @@ Netflix Dashboard**
 ![Screenshot (18)](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/86eb8b84-2a49-4e3b-ae4b-323724ba3a3f)
 
 
+**#Project 3: 
+Financial Complaints Dashboard**
+![Screenshot (23)](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/bf88ab6f-3d6f-4dbb-bb03-6d85888c3f1a)
