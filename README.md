@@ -32,3 +32,12 @@ Webmarketing Dashboard**
 
 
 # Power BI -Dashboards
+
+****#Project 1:** 
+![Heat Map](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/df17d72e-1790-43ea-9b8d-a717482ba9a8)
+
+
+![Matrix](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/67d78a5f-c6bd-45e0-9c7e-81dc9d00d1f4)
+
+
+![Radar Chart](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/5af539b8-ffb3-40a6-b2c4-794bcd8927ae)
