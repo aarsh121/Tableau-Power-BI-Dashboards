@@ -33,7 +33,12 @@ Webmarketing Dashboard**
 
 # Power BI -Dashboards
 
-**#Project 1:** 
+**#Project 1:** Zomato Dashboard, DAX, Power Query, ETL, Filter Used
+
+![Screenshot (40)](https://github.com/aarsh121/Tableau-Power-BI-Dashboards/assets/51901455/91ef5c3e-a374-4fad-a59b-93695824963c)
+
+
+**#Project 2:** 
 
 ![Heat Map](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/df17d72e-1790-43ea-9b8d-a717482ba9a8)
 
@@ -44,7 +49,7 @@ Webmarketing Dashboard**
 ![Radar Chart](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/5af539b8-ffb3-40a6-b2c4-794bcd8927ae)
 
 
-**#Project 2:** 
+**#Project 3:** 
 
 ![Page 1](https://github.com/aarsh121/Tableau-Power-BI-Dashboards/assets/51901455/66d4fc85-152b-48a6-a259-f0b6d0eecdaa)
 
@@ -53,3 +58,4 @@ Webmarketing Dashboard**
 
 
 ![Page 3](https://github.com/aarsh121/Tableau-Power-BI-Dashboards/assets/51901455/16d4b310-9130-4811-887b-0ac628f5c2e1)
+
