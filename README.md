@@ -1,3 +1,16 @@
+**Power BI** **Google Trends Advance Dashboard**
+
+Fetched API data from https://serpapi.com/. Which shows keywords(5) trend over the period of time and its related words and its stats. Used Figma, Measures, Dynamic Filters/Title, Parameters, Dynamic input to fetch data using paramteres.
+
+![Screenshot (41)](https://github.com/aarsh121/Tableau-Power-BI-Dashboards/assets/51901455/3a591b95-2ebe-4fba-af70-69b0fc8874f1)
+
+![Screenshot (42)](https://github.com/aarsh121/Tableau-Power-BI-Dashboards/assets/51901455/d8f3452e-a419-4792-87a5-2d2f8e76b850)
+
+![Screenshot (43)](https://github.com/aarsh121/Tableau-Power-BI-Dashboards/assets/51901455/a442c218-ae86-4cf3-a4b9-4932a33bf155)
+
+![Screenshot (45)](https://github.com/aarsh121/Tableau-Power-BI-Dashboards/assets/51901455/2bdfd6b2-44f4-4bc7-8828-88c2399d08c4)
+
+
 **#Project 1:-**
 
 # Tableau-Dashboards
