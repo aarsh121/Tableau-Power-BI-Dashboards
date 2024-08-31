@@ -14,11 +14,20 @@ Fetched API data from https://serpapi.com/. Which shows keywords(5) trend over t
 
 ![Screenshot (45)](https://github.com/aarsh121/Tableau-Power-BI-Dashboards/assets/51901455/2bdfd6b2-44f4-4bc7-8828-88c2399d08c4)
 
-
+# Tableau-Dashboards
 
 **#Project 1:-**
 
-# Tableau-Dashboards
+**#Foreign Direct Investment in Various Sector in India**
+
+![Screenshot (58)](https://github.com/user-attachments/assets/32e12e07-a7f8-4421-9836-6ba36618408a)
+
+![Screenshot (59)](https://github.com/user-attachments/assets/ef134927-1025-4148-b05d-54df7549ed64)
+
+
+**#Project 2:-**
+
+
 Our case study is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights.
 
 **Revenue Analysis- Dashboard**
@@ -30,20 +39,20 @@ Our case study is based on a computer hardware business which is facing challeng
 ![Screenshot (11)](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/e65910af-dfe0-4af0-972f-e1582e7d95d0)
 
 
-**#Project 2: 
+**#Project 3: 
 Netflix Dashboard**
 
 
 ![Screenshot (18)](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/86eb8b84-2a49-4e3b-ae4b-323724ba3a3f)
 
 
-**#Project 3: 
+**#Project 4: 
 Financial Complaints Dashboard**
 
 ![Screenshot (23)](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/bf88ab6f-3d6f-4dbb-bb03-6d85888c3f1a)
 
 
-**#Project 4: 
+**#Project 5: 
 Webmarketing Dashboard**
 
 ![Screenshot (24)](https://github.com/aarsh121/Tableau-Dashboards/assets/51901455/e7f52520-4304-40f2-8c39-59c520081258)
